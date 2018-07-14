@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="5" android:versionName="1.4" package="lk.stechbuzz.qrreader" android:installLocation="auto">
+  <uses-sdk android:targetSdkVersion="27" android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTIES" />
+  <uses-permission android:name="android.permission.FLASHLIGHT" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <application android:label="QR &amp; Barcode Reader" android:theme="@style/MyTheme" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:icon="@drawable/icon" android:label="History" android:theme="@android:style/Theme.Material.Light" android:name="md5249382a171d022a91f7a8688f7435b81.HomeScreen" />
+    <activity android:label="History" android:name="md593699037d838bc3516a27ec24d173d03.History" />
+    <activity android:icon="@drawable/icon" android:label="QR &amp; Barcode Reader" android:name="md593699037d838bc3516a27ec24d173d03.MainActivity" />
+    <activity android:noHistory="true" android:theme="@style/MyTheme.Splash" android:name="md593699037d838bc3516a27ec24d173d03.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md54ac47efa3340b2f00c939eadd8c37639.ZxingActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="lk.stechbuzz.qrreader.mono.MonoRuntimeProvider.__mono_init__" />
+    <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+  </application>
+</manifest>
