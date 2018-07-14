@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:id="@+id/main_content">
+        <TextView
+            android:layout_marginTop="70dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/Result"
+            android:textSize="20sp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center" />
+        <Button
+            android:id="@+id/btnBrowse"
+            android:layout_centerHorizontal="true"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:background="@drawable/browser"
+            android:visibility="gone" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Open in web browser"
+            android:id="@+id/browserTxt"
+            android:visibility="gone"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center" />
+    </LinearLayout>
+  
+  
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="50dp"
+        android:id="@+id/button_content">
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/btnSingle"
+            android:text="Single scan"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_centerInParent="true"
+            android:background="@drawable/button_bg_rounded_corners"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:textColor="#111111" />
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:id="@+id/btnMulty"
+            android:text="Multiple scan"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_centerInParent="true"
+            android:background="@drawable/button_bg_rounded_corners"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:textColor="#111111" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:id="@+id/main_content"
+        android:layout_below="@id/toolbar"
+        android:layout_alignParentBottom="true"
+        android:gravity="bottom">
+        <Toolbar
+            android:id="@+id/toolbar_bottom"
+            android:minHeight="?android:attr/actionBarSize"
+            android:background="?android:attr/colorAccent"
+            android:theme="@android:style/ThemeOverlay.Material.Dark.ActionBar"
+            android:popupTheme="@android:style/ThemeOverlay.Material.Light"
+            android:layout_width="match_parent"
+            android:layout_alignParentBottom="true"
+            android:gravity="bottom|center_horizontal"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

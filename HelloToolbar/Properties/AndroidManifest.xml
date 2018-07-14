@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="5" android:versionName="1.4" package="lk.stechbuzz.qrreader" android:installLocation="auto">
+	<uses-sdk android:targetSdkVersion="27" android:minSdkVersion="16" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTIES" />
+	<uses-permission android:name="android.permission.FLASHLIGHT" />
+	<application android:label="QR &amp; Barcode Reader" android:theme="@style/MyTheme" android:icon="@drawable/Icon"></application>
+</manifest>

@@ -1,0 +1,363 @@
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\PandaQRCodeReader.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\PandaQRCodeReader.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\lk.stechbuzz.qrreader.apk
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\lk.stechbuzz.qrreader-Signed.apk
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\FastAndroidCamera.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Base.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Vision.Common.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\ZXing.Net.Mobile.Core.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\zxing.portable.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\ZXingNetMobile.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\FastAndroidCamera.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Vision.Common.dll.stamp
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\proguard\dc663e480.txt
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\dc663e48.proguard.stamp
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\0757626b.proguard.stamp
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\XbdMerge\4fad4019.proguard.stamp
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\PandaQRCodeReader.csproj.CoreCompileInputs.cache
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\PandaQRCodeReader.csproj.CopyComplete
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\PandaQRCodeReader.dll
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\PandaQRCodeReader.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\bin\lk.stechbuzz.qrreader.apk
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\layout\main.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\values\strings.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable\icon.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\layout\toolbar.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\values\styles.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\menu\home.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\menu\photo_edit.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_redo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_social_share.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_save.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_undo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_create.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_redo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_social_share.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_save.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_undo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_create.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_redo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_social_share.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_save.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_undo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_create.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_redo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_social_share.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_save.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_undo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_create.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\values\colors.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable\splash_logo.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable\splash_screen.xml
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\R.cs.flag
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\uploadflags.txt
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable\plusicon.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\res\drawable\browser.png
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\PandaQRCodeReader.csprojResolveAssemblyReference.cache
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Mono.Android.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Mono.Android.Export.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\mscorlib.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\System.Core.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\System.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\System.Xml.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\System.Net.Http.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\Mono.Security.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\Mono.Android.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\Mono.Android.Export.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\mscorlib.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\System.Core.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\System.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\System.Xml.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\System.Net.Http.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\Mono.Security.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\linksrc\PandaQRCodeReader.dll.mdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\bin\Release\PandaQRCodeReader.dll.mdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\PandaQRCodeReader.dll.mdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\Mono.Android.Export.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\Mono.Android.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\Mono.Security.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\mscorlib.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\System.Core.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\System.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Users\sliyanaarachchi\Downloads\Toolbar\HelloToolbar\obj\Release\android\assets\System.Xml.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\PandaQRCodeReader.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\PandaQRCodeReader.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\lk.stechbuzz.qrreader.apk
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\lk.stechbuzz.qrreader-Signed.apk
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\FastAndroidCamera.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\SQLite-net.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\SQLitePCLRaw.batteries_green.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\SQLitePCLRaw.core.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.v4.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Base.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Tasks.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Vision.Common.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\ZXing.Net.Mobile.Core.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\zxing.portable.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\ZXingNetMobile.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\FastAndroidCamera.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\SQLite-net.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\SQLite-net.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Vision.Common.dll.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\proguard\dc663e480.txt
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\dc663e48.proguard.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\0757626b.proguard.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\2f4d086a.proguard.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\XbdMerge\4fad4019.proguard.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\PandaQRCodeReader.csproj.CoreCompileInputs.cache
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\PandaQRCodeReader.csproj.CopyComplete
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\PandaQRCodeReader.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\PandaQRCodeReader.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\bin\lk.stechbuzz.qrreader.apk
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\layout\main.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\values\strings.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable\icon.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\layout\toolbar.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\values\styles.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\menu\home.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\menu\photo_edit.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_redo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_social_share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_save.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_undo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_create.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_redo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_social_share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_save.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_undo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_create.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_redo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_social_share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_save.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_undo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_create.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_redo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_social_share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_save.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_undo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_create.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\values\colors.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable\splash_logo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable\splash_screen.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable\plusicon.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable\browser.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\drawable\history.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\res\layout\historylist.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\R.cs.flag
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\uploadflags.txt
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Mono.Android.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Mono.Android.Export.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\mscorlib.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\System.Core.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\System.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\System.Xml.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\System.Xml.Linq.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\System.Net.Http.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\System.Runtime.Serialization.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\System.ServiceModel.Internals.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\Mono.Security.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\System.ComponentModel.Composition.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\Mono.Android.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\Mono.Android.Export.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\mscorlib.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\SQLite-net.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\System.Core.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\System.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\System.Xml.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\System.Xml.Linq.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\System.Net.Http.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\System.Runtime.Serialization.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\Mono.Security.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\linksrc\PandaQRCodeReader.dll.mdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\bin\Release\PandaQRCodeReader.dll.mdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\PandaQRCodeReader.dll.mdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\Mono.Android.Export.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\Mono.Android.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\Mono.Security.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\mscorlib.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\SQLite-net.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\System.Core.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\System.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\System.Runtime.Serialization.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.2\HelloToolbar\obj\Release\android\assets\System.Xml.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\PandaQRCodeReader.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\PandaQRCodeReader.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\lk.stechbuzz.qrreader.apk
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\lk.stechbuzz.qrreader-Signed.apk
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\FastAndroidCamera.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\SQLite-net.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\SQLitePCLRaw.batteries_green.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\SQLitePCLRaw.core.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.Core.UI.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.Fragment.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.v4.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Base.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Basement.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Tasks.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Xamarin.GooglePlayServices.Vision.Common.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\ZXing.Net.Mobile.Core.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\zxing.portable.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\ZXingNetMobile.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\FastAndroidCamera.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\SQLite-net.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\SQLite-net.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\Xamarin.GooglePlayServices.Vision.Common.dll.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\proguard\dc663e480.txt
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\dc663e48.proguard.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\0757626b.proguard.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\2f4d086a.proguard.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\XbdMerge\4fad4019.proguard.stamp
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\PandaQRCodeReader.csproj.CoreCompileInputs.cache
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\PandaQRCodeReader.csproj.CopyComplete
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\PandaQRCodeReader.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\PandaQRCodeReader.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\bin\lk.stechbuzz.qrreader.apk
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\layout\main.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\values\strings.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\icon.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\layout\toolbar.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\values\styles.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\menu\home.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\menu\photo_edit.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_redo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_social_share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_save.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_undo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-hdpi\ic_action_content_create.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_redo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_social_share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_save.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_undo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-mdpi\ic_action_content_create.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_redo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_social_share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_save.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_undo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xhdpi\ic_action_content_create.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_redo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_social_share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_save.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_undo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable-xxhdpi\ic_action_content_create.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\values\colors.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\splash_logo.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\splash_screen.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\plusicon.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\browser.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\history.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\layout\historylist.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\R.cs.flag
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\uploadflags.txt
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\panda.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\share.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\flash.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\flashoff.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\layout\zxingoverlay.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\layout\history.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\button_bg_rounded_corners.xml
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\alert.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\delete.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\background.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\res\drawable\iconsamll.png
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Mono.Android.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Mono.Android.Export.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\mscorlib.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\System.Core.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\System.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\System.Xml.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\System.Xml.Linq.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\System.Net.Http.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\System.Runtime.Serialization.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\System.ServiceModel.Internals.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\Mono.Security.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\System.ComponentModel.Composition.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\Mono.Android.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\Mono.Android.Export.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\mscorlib.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\SQLite-net.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\System.Core.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\System.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\System.Xml.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\System.Xml.Linq.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\System.Net.Http.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\System.Runtime.Serialization.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\Mono.Security.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\PandaQRCodeReader.dll.mdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\PandaQRCodeReader.dll.mdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\PandaQRCodeReader.dll.mdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\Mono.Android.Export.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\Mono.Android.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\Mono.Security.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\mscorlib.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\SQLite-net.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\System.Core.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\System.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\System.Runtime.Serialization.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\android\assets\System.Xml.pdb
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\bin\Release\PandaQRCodeReader.dll
+D:\Portable Apps\Documents\projects\QRCodeReader\version 1.3\HelloToolbar\obj\Release\linksrc\PandaQRCodeReader.dll.mdb
