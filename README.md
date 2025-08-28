@@ -22,8 +22,6 @@ A lightweight QR and barcode scanner built with **Xamarin.Android**. This app al
 
 ## 📦 Technologies Used
 
-- **Java** (99.7%)
-- **C#** (0.3%)
 - Xamarin.Android SDK
 - Android Camera & Barcode APIs
 
